@@ -112,3 +112,7 @@ swift test
 Protocol: [Dyn update request](https://help.dyn.com/perform-update.html),
 [return codes](https://help.dyn.com/return-codes.html), and
 [client policies](https://help.dyn.com/policies.html).
+
+## License
+
+[MIT](LICENSE) © 2026 Michael Sharpe.
