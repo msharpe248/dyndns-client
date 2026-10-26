@@ -1,0 +1,6 @@
+{
+  "hostname": "home.example.com",
+  "username": "YOUR_DYN_USERNAME",
+  "password": "YOUR_UPDATER_CLIENT_KEY",
+  "interface": "en0"
+}
